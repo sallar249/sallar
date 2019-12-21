@@ -1,1 +1,1 @@
-# sallar
+# apt install git
